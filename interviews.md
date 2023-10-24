@@ -1,4 +1,5 @@
-## [Homepage](index.md) | [About](about.md) | [Planned Features](features.md) | [Timeline](timeline.md) | [Interviews](interviews.md)
+[Homepage](index.md) | [About](about.md) | [Planned Features](features.md) | [Timeline](timeline.md) | [Interviews](interviews.md) | [Team](team.md) | [Upcoming](upcoming.md)
+
 
 # Interview 1:
 >**Annonymous Retired Employee for Student Health Services**
