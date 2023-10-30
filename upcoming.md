@@ -1,1 +1,1 @@
-[Homepage](index.md) | [About](about.md) | [Planned Features](features.md) | [Timeline](timeline.md) | [Interviews](interviews.md) | [Team](team.md) | [Upcoming](upcoming.md)
+[Homepage](index.md) | [About](about.md) | [Planned Features](features.md) | [Meetings](timeline.md) | [Interviews](interviews.md) | [Roles](team.md) | [Upcoming](upcoming.md)
