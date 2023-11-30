@@ -12,20 +12,20 @@
 - **Tasks:**
   - [x] Implement the user interface according to the design.
   - [x] Integrate accessibility features.
-  - Implement navigation and transitions.
+  - [x] Implement navigation and transitions.
 
 ### Phase 3: Back-End Development
 - **Tasks:**
   - Set up Firebase as the backend.
-  - Integrate Google Maps API.
-  - Work with Student Disability Services to set up a contact method for users.
+  - [x] Integrate Google Maps API.
+  - [x] Work with Student Disability Services to set up a contact method for users.
   - Develop user authentication and authorization.
-  - Implement the routing algorithm for wheelchair-bound students.
+  - [x] Implement the routing algorithm for wheelchair-bound students.
 
 ### Phase 4: Testing and Debugging
 - **Tasks:**
-  - Conduct unit and integration testing.
-  - Fix bugs and issues.
+  - [x] Conduct unit and integration testing.
+  - [x] Fix bugs and issues.
   - Involve stakeholders in UAT Testing.
 
 ### Phase 5: Deployment
@@ -35,13 +35,13 @@
 
 ### Testbed and Testing
 - **Testbed:**
-  - Emulators: Android Emulator, iOS Simulator
-  - Physical Devices: A range of Android and iOS devices for real-world testing
-  - Test data: Simulated data for testing various scenarios
+  - [x] Emulators: Android Emulator, iOS Simulator
+  - [x] Physical Devices: A range of Android and iOS devices for real-world testing
+  - [x] Test data: Simulated data for testing various scenarios
 
 - **Testing Phases:**
-  - Unit Testing: Test individual functions and components.
-  - Integration Testing: Test interactions between different modules.
+  - [x] Unit Testing: Test individual functions and components.
+  - [x] Integration Testing: Test interactions between different modules.
   - User Acceptance Testing (UAT): Involve disabled students from Texas Tech University to test usability and accessibility features.
-  - Performance Testing: Assess app performance under different conditions.
+  - [x] Performance Testing: Assess app performance under different conditions.
   - Security Testing: Ensure data security and privacy.
