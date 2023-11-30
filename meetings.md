@@ -36,3 +36,34 @@
 
 - **October 30 - Present, 2023:**
   > Testing and Refinement: Conducted initial testing and began refining the system based on feedback. Team members working on individual tasks/roles regarding to implementation plan.
+
+### Stage 3
+- **November 5, 2023:**
+  > Task Assignments for Stage 3: Assigned specific roles and tasks for team members in alignment with Stage 3 objectives.
+
+- **November 6, 2023:**
+  > Brief Progress Check-in: Conducted a quick meeting to discuss initial progress and clarify any immediate concerns or questions.
+
+- **November 10, 2023:**
+  > Development Progress Review: Team members shared updates on their individual tasks, focusing on UI enhancements and data integration.
+
+- **November 14, 2023:**
+  > Mid-Stage Coordination Meeting: Reviewed overall progress, addressed challenges, and strategized for efficient task completion.
+
+- **November 17, 2023:**
+  > Feature Implementation Sync-Up: Focused on the synchronization of newly implemented features and their integration into the main system.
+
+- **November 21, 2023:**
+  > Finalization Preparation Meeting: Discussed strategies for finalizing the different components of the app and ensuring cohesive integration.
+
+- **November 24, 2023:**
+  > Pre-Final Check Meeting: Conducted a comprehensive review of all components and prepared for final adjustments.
+
+- **November 27, 2023:**
+  > Last Minute Task Assignments and Updates: Addressed any remaining tasks and provided updates on individual contributions.
+
+- **November 29, 2023:**
+  > Final System Checks and Refinements: Worked on finalizing the system, ensuring all elements were polished and functioning seamlessly.
+
+- **November 30, 2023:**
+  > Final Presentation and Report Submission: Finalized the presentation, project report, and merged the final app implementations to GitHub.
