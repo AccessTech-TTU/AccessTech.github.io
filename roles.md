@@ -72,7 +72,6 @@
 - **Role:** Chief Maps and Navigation Engineer
   - *Responsibilities:*
     - Led the integration of Google Maps API, harnessing its capabilities for enhanced mapping and navigation.
-    - Innovated the filters sidebar, providing users with tailored navigation options.
     - Implemented an array of detailed on-map markers, including those for ramps and entrances, aiding in precise location identification.
     - Engineered a sophisticated routing system using Dijkstra's algorithm, optimizing the app for the most efficient campus navigation paths.
 
@@ -82,3 +81,4 @@
     - Created the skeleton for the bottom sheet, setting the stage for subsequent UI enhancements.
     - Devised an innovative floating help button, offering centralized access to vital help and contact features.
     - Integrated a multi-functional design into the floating help button, revealing options for help requests, direct calls to the Student Disabilities Department, and viewing request form history, all within a single, user-friendly interface.
+    - Innovated the filters sidebar, providing users with tailored navigation options.
