@@ -48,7 +48,8 @@
 - **Role:** Principal Developer and UI/Accessibility Architect
   - *Responsibilities:*
     - Masterminded the integration of real-time location tracking using Google Maps API, elevating user navigation and safety.
-    - Oversaw the integration of settings screen, tailoring user experiences to individual preferences.
+    - Responsible for developing and ensuring the map screen followed design specifications, and correctly loaded and performed within acceptable margins.
+    - Developed and refined the map and settings screen, offering users a personalized and intuitive interface.
     - Innovatively implemented one-click routing from the bottom sheet, streamlining user interaction for efficient pathfinding.
     - Spearheaded the overall theme development, refining the app's aesthetic and user experience.
     - Conducted comprehensive final checks, ensuring the app's robustness and readiness for deployment.
